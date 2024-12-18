@@ -7,12 +7,11 @@ We have to turn alternating squares brown to finish building our board.
 
 ## Instructions 
 
-Edit the style.css (and review the index.html)
-
-For each of the instructions, create the desired selector and set the property:
+1. Edit the style.css (and review the index.html)
+2. For each of the instructions, create the desired selector and set the property:
 ```
     background-color: brown;
 ```
-For each instruction, there should be ONE and ONLY ONE set of {}
+3. For each instruction, there should be ONE and ONLY ONE set of {}
 
 
